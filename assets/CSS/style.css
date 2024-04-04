@@ -122,6 +122,11 @@ header .user .fa-user:hover {
     font-optical-sizing: auto;
     
 }
+.information .info button:hover{
+ border : 1px solid white   
+}
+
+
 .information .info .submit{
    background-color: rgba(252, 84, 0, 0.949);
    color: aliceblue;
